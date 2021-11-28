@@ -1,9 +1,9 @@
 # git-nuestro
 
 **Respuestas**
-11- git reset HEAD~1
+>11- git reset HEAD~1
 	Para poder retroceder un paso.
-12- Git reflog para ver todos los pasos			registrados y apuntar el identificador 	
+>12- Git reflog para ver todos los pasos registrados y apuntar el identificador 	
 	Git reset HEAD@{1} para ir a ese punto del historial.
 13- git merge master. No causó conflicto.
 19- Sí hubo conflictos. Por el cambio de ramas
@@ -15,5 +15,5 @@
 29- git branch -D title
 30- git reset HEAD@{2}
 32- git restore git-nuestro.md
-	git reset HEAD@{2}
+    git reset HEAD@{2}
 33- git reset HEAD@{14}
